@@ -3,8 +3,6 @@
 
 
 
-
-
 wmic csproduct get uuid
 
 
